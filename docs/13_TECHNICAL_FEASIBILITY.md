@@ -43,7 +43,9 @@ When required inputs are absent or stale, status should be Unknown or require ma
 
 ### Charger management
 
-OCPP is a communications protocol family between charging stations and management systems. Version and feature compatibility matter. OCPP 1.6 and OCPP 2.0.1 are not directly backward-compatible; do not claim generic “OCPP integration” without identifying version, supported functions, security profile, vendor implementation, and certification / testing requirements.
+OCPP is an open protocol for communication between charging stations and central charging-management systems. The Open Charge Alliance currently lists OCPP 1.6, 2.0.1, and 2.1. OCPP 1.6 and 2.0.1 are **not backward-compatible**; OCPP 2.1 builds on 2.0.1 and is backward-compatible with 2.0.1. Version support must therefore be verified per charger and charge-point management system, rather than advertised as generic “OCPP integration.”
+
+Sources: [OCA OCPP protocols](https://openchargealliance.org/protocols/open-charge-point-protocol/) and [OCA FAQ](https://openchargealliance.org/faq/). Check the latest errata and edition when scoping a real integration.
 
 ### Vehicle telemetry / BMS
 
