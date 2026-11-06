@@ -1,18 +1,20 @@
 # 02 — Competitive Landscape
 
-## Purpose
+## Purpose and method
 
-Understand what operators can already buy or use. This is a desk-research snapshot based on publicly described capabilities, not hands-on product testing or independently verified performance.
+Understand what operators can already buy or use. This is a **desk-research snapshot** based on publicly described capabilities, not hands-on product testing or independently verified performance. Product pages change; every claim should be revisited before external presentation.
 
 ## Competitor / adjacent solution map
 
-| Company | Publicly described area | Why it matters to ShiftReady | Evidence limitation |
+| Company | Publicly documented positioning reviewed | Implication for ShiftReady | Confidence / limitation |
 |---|---|---|---|
-| Kazam | EV fleet/depot operations, vehicle and charging visibility, energy management | Directly adjacent; challenges generic fleet visibility and charging-queue differentiation | Verify current product scope and segment fit from current primary material |
-| Yano | Fleet charging management and shift-oriented scheduling / optimisation | Directly adjacent to depot energy coordination | Public positioning does not prove fit for every operator segment |
-| MoEVing | EV fleet solutions, logistics operations, charging/lifecycle services | Potentially competes as a service/operator solution, not just software | Business model and product boundaries need careful comparison |
-| Bolt.Earth | Charging infrastructure and charger-management software | Relevant integration and infrastructure layer | Not necessarily a complete dispatch workflow substitute |
-| Statiq | Charging network and charging-management ecosystem | Relevant for charging access and network coordination | Network capability is not the same as fleet dispatch readiness |
+| Kazam | Its EV Fleet & Depot Management page describes live vehicle monitoring, smart alerts, cost analysis, vehicle-to-charger mapping, charging queues, trip-adherence analytics, and depot operations. | Strong direct overlap. Generic fleet visibility, queueing, and readiness dashboards cannot be claimed as unique. | High confidence in the vendor's public marketing claims; no independent performance validation. |
+| Bolt.Earth | Its Charger Management System page describes multi-location charger management, role-based access, fleet-operator functionality, and third-party OCPP charger onboarding. | Relevant infrastructure / charger-management layer and potential integration dependency. | High confidence in public marketing claims; not proof it replaces dispatch management. |
+| Yano | Retain as an adjacent market participant to investigate. | Could be relevant to fleet energy coordination; exact overlap should be established from current product documentation and operator references. | Feature-level claims intentionally withheld pending direct source verification. |
+| MoEVing | Retain as an adjacent EV fleet / logistics ecosystem participant to investigate. | May compete as an operator, service provider, or technology-enabled fleet solution; clarify the actual buying alternative. | Business model and software boundaries need primary-source verification. |
+| Statiq | Retain as an adjacent charging-network participant to investigate. | Relevant to charging access and ecosystem integrations; a network is not automatically a dispatch-workflow substitute. | Feature-level claims intentionally withheld pending direct source verification. |
+
+**Sources reviewed:** [Kazam Fleet & Depot Management](https://kazam.energy/products/ev-fleet-depot-management-system) and [Bolt.Earth Charger Management System](https://bolt.earth/charger-management-system). Additional market participants are research leads, not fully benchmarked competitors in this version.
 
 ## Core competitive conclusion
 
@@ -25,7 +27,7 @@ Do **not** claim that ShiftReady is differentiated merely because it offers:
 - maintenance alerts;
 - an operator dashboard.
 
-Established providers already publicly market overlapping capabilities.
+Kazam's public product page alone already advertises several of these capabilities. Bolt.Earth also markets charger operations, multi-site control, fleet-operator functions, and OCPP-compatible third-party charger onboarding.
 
 ## Differentiation hypotheses to test
 
