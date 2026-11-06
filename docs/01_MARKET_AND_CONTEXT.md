@@ -8,18 +8,17 @@ What market and operating conditions make EV fleet readiness a relevant problem 
 
 Commercial EV operations sit at the intersection of vehicle availability, energy replenishment, daily shift schedules, depot processes, and delivery commitments. A policy transition can increase the relevance of operational tooling, but policy alone does not prove demand for a particular software product.
 
-## Policy context — use with care
+## Delhi policy context — primary-source caution
 
-The Delhi EV Policy 2026 and its implementation provisions should be read from the official Gazette / government publication. The policy's phased provisions have distinct vehicle categories and effective dates. Do not summarise them as a blanket immediate electrification mandate for every fleet or existing vehicle.
+The Government of NCT of Delhi Transport Department's notifications page lists a Delhi EV Policy 2026 notification dated **1 July 2026** and separate operational guidelines dated **8 July 2026**. The exact policy clauses and any later amendments must be checked before using a regulatory claim in a product thesis.
 
-Before publishing a policy claim:
-- link the official document, not a news summary alone;
-- record publication / notification date and the relevant clause;
-- quote the vehicle category and effective date precisely;
-- distinguish new-registration requirements from fleet transition provisions;
-- verify whether amendments, clarifications, or court orders changed the position.
+The published policy text describes phased new-registration requirements, including:
+- from **1 January 2027**, only electric L5 three-wheelers and N1 goods carriers permitted for new registration in Delhi;
+- from **1 April 2028**, only electric two-wheelers permitted for new registration in Delhi.
 
-**Current portfolio treatment:** policy is a possible market tailwind and research context, not proof of product-market fit.
+These are category-specific new-registration provisions. Do not describe them as a blanket requirement for every existing vehicle or every fleet to convert immediately. This is a market-context signal, not evidence that operators need ShiftReady or will pay for it.
+
+**Primary starting point:** [GNCTD Transport Department notifications](https://transport.delhi.gov.in/notifications). The [Delhi EV Policy 2026 publication](https://gazettetracker.com/g/SG-DL-E-30062026-273960) is a searchable Gazette mirror; prefer an official Gazette copy where available and check for later notifications before making a legal interpretation. The [official operational guidelines](https://transport.delhi.gov.in/sites/default/files/Transport/circulars-orders/operating_guidelines.pdf) cover implementation matters and should not be conflated with the full policy text.
 
 ## Market questions to answer
 
@@ -43,7 +42,7 @@ Do not publish a TAM/SAM/SOM number without a reproducible model. A credible bot
 
 Formula skeleton:
 
-`SAM = Addressable operators \times Eligible share \times Plausible annual contract value`
+`SAM = Addressable operators × Eligible share × Plausible annual contract value`
 
 This is a model structure, not a market estimate. The variables must be sourced or explicitly marked as assumptions.
 
